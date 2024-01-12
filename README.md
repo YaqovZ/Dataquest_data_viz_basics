@@ -1,4 +1,4 @@
-# Traffic Analysis on I-94 Interstate Highway
+# Dataquest Guided Project: Traffic Analysis on I-94 Interstate Highway
 
 ## Introduction
 This repository contains the Jupyter notebook for an analytical project focused on identifying heavy traffic indicators on the I-94 Interstate highway. The primary goal of this analysis is to uncover patterns and factors that contribute to increased traffic, particularly in the westbound direction.
